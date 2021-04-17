@@ -93,33 +93,33 @@ SQL code to create the mentorship_eligibility table
 
 ## Summary
 
-**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
-  There are a total of 90,398 employees (out of a total of 300,024) who are eligible for retirement soon. So 30% of the total workforce will leave in the next four years.
+There are a total of 90,398 employees (out of a total of 300,024) who are eligible for retirement soon. So 30% of the total workforce will leave in the next four years.
 
-  |             | Count | Percent of workforce |
-  | ----------- | ----------- | ----------- |
-  | Total Employees born betwen 1952 - 1955  | 90,398 |  30.13% |
-  | Employees born in 1952 | 21,209 |                     7.07% |
-  | Employees born in 1953 | 22,857 |                     7.62% |
-  | Employees born in 1954 | 23,228 |                     7.74% |
-  | Employees born in 1955 | 23,104 |                     7.70% |
+|             | Count | Percent of workforce |
+| ----------- | ----------- | ----------- |
+| Total Employees born betwen 1952 - 1955  | 90,398 |  30.13% |
+| Employees born in 1952 | 21,209 |                     7.07% |
+| Employees born in 1953 | 22,857 |                     7.62% |
+| Employees born in 1954 | 23,228 |                     7.74% |
+| Employees born in 1955 | 23,104 |                     7.70% |
 
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
-  Counts of employees eligible for mentorship_eligibility
+Counts of employees eligible for mentorship_eligibility
 ![Mentees born in 1965](Images/Mentees_born_in_1965.png)
 
-  We can compare that with the number of employees available to be mentors below, and we can see that there are plenty of retirement-ready employees to mentor the next generation of PH employees:
+We can compare that with the number of employees available to be mentors below, and we can see that there are plenty of retirement-ready employees to mentor the next generation of PH employees:
 
-  | Title              | Mentors     | Mentees |
-  | -----------        | ----------- | ----------- |
-  | Senior Engineer    | 29,414      | 529 |
-  | Senior Staff       | 28,254      | 569 |
-  | Engineer           | 14,222      | 190 |
-  | Staff              | 12,243      | 155 |
-  | Technique Leader   |  4,502      |  77 |
-  | Assistant Engineer |  1,761      |  29 |
-  | Manager            |      2      |   0 |
+| Title              | Mentors     | Mentees |
+| -----------        | ----------- | ----------- |
+| Senior Engineer    | 29,414      | 529 |
+| Senior Staff       | 28,254      | 569 |
+| Engineer           | 14,222      | 190 |
+| Staff              | 12,243      | 155 |
+| Technique Leader   |  4,502      |  77 |
+| Assistant Engineer |  1,761      |  29 |
+| Manager            |      2      |   0 |
 
-  It actually looks like PH has the opposite problem. There are not enough younger employees to take up the slack when the retirees are gone.
+It actually looks like PH has the opposite problem. There are not enough younger employees to take up the slack when the retirees are gone.
