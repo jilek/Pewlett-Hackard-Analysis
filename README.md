@@ -70,21 +70,22 @@ CREATE TABLE titles (
 
 #### Determine the titles held by retirement-eligible employees (born 1952-1955)
 
-SQL code to create the **retirement_titles** table
+SQL code to create the retirement_titles table
 ![retirement_titles](Images/Retirement_Titles.png)
 
 #### Find the most recently held title for each of the above
 
-SQL code to create the **unique_titles** table
+SQL code to create the unique_titles table
 ![unique_titles](Images/Unique_Titles.png)
 
 #### Gather counts for each title above
 
-SQL code to create the **retiring_titles** table
+SQL code to create the retiring_titles table
 ![retiring_titles](Images/Retiring_Titles.png)
 
 #### Determine which employees born in 1965 are eligible for mentorship_eligibility
-SQL code to create the **mentorship_eligibility** table
+
+SQL code to create the mentorship_eligibility table
 ![mentorship_eligibility](Images/Mentorship_Eligibility.png)
 
 
