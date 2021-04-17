@@ -112,6 +112,7 @@ There are a total of 90,398 employees (out of a total of 300,024) who are eligib
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Counts of employees eligible for mentorship_eligibility
+
 ![Mentees born in 1965](Images/Mentees_born_in_1965.png)
 
 We can compare that with the number of employees available to be mentors below, and we can see that there are plenty of retirement-ready employees to mentor the next generation of PH employees:
