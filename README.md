@@ -71,21 +71,25 @@ CREATE TABLE titles (
 #### Determine the titles held by retirement-eligible employees (born 1952-1955)
 
 SQL code to create the retirement_titles table
+
 ![retirement_titles](Images/Retirement_Titles.png)
 
 #### Find the most recently held title for each of the above
 
 SQL code to create the unique_titles table
+
 ![unique_titles](Images/Unique_Titles.png)
 
 #### Gather counts for each title above
 
 SQL code to create the retiring_titles table
+
 ![retiring_titles](Images/Retiring_Titles.png)
 
 #### Determine which employees born in 1965 are eligible for mentorship_eligibility
 
 SQL code to create the mentorship_eligibility table
+
 ![mentorship_eligibility](Images/Mentorship_Eligibility.png)
 
 
@@ -93,7 +97,7 @@ SQL code to create the mentorship_eligibility table
 
 ## Summary
 
-#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 There are a total of 90,398 employees (out of a total of 300,024) who are eligible for retirement soon. So 30% of the total workforce will leave in the next four years.
 
@@ -105,7 +109,7 @@ There are a total of 90,398 employees (out of a total of 300,024) who are eligib
 | Employees born in 1954 | 23,228 |                     7.74% |
 | Employees born in 1955 | 23,104 |                     7.70% |
 
-#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Counts of employees eligible for mentorship_eligibility
 ![Mentees born in 1965](Images/Mentees_born_in_1965.png)
